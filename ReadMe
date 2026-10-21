@@ -1,1 +1,3 @@
-
+This is my first ever project (which you can tell by the terrible documentation)
+Basically the C++ script makes a sphere using triangles and the initial state of these triangles is determined by the first temperature reading in the temperature file and then uses the Navier-Stokes equation as the interaction equation between the triangles to run the cellular automata.
+If you don't want to bother figuring the files out (which I wouldn't either really) - you can just read the report which summarises everything!
